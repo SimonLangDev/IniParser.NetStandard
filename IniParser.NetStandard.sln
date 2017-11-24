@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IniParser.NetStandard", "IniParser.NetStandard\IniParser.NetStandard.csproj", "{294546F9-1E70-443B-80CF-9D809714FDED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IniParser.Example", "IniParser.Example\IniParser.Example.csproj", "{DEBEC842-4C1A-47E4-ABBA-B48FDE0502E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294546F9-1E70-443B-80CF-9D809714FDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294546F9-1E70-443B-80CF-9D809714FDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294546F9-1E70-443B-80CF-9D809714FDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294546F9-1E70-443B-80CF-9D809714FDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEBEC842-4C1A-47E4-ABBA-B48FDE0502E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBEC842-4C1A-47E4-ABBA-B48FDE0502E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBEC842-4C1A-47E4-ABBA-B48FDE0502E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBEC842-4C1A-47E4-ABBA-B48FDE0502E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A69F9C26-E725-491C-970C-0C7F284C798F}
+	EndGlobalSection
+EndGlobal

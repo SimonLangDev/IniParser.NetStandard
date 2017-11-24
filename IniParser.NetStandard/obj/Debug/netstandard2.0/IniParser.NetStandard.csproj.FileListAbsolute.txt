@@ -1,0 +1,9 @@
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.NetStandard\bin\Debug\netstandard2.0\IniParser.NetStandard.deps.json
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.NetStandard\bin\Debug\netstandard2.0\IniParser.NetStandard.dll
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.NetStandard\bin\Debug\netstandard2.0\IniParser.NetStandard.pdb
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.NetStandard\obj\Debug\netstandard2.0\IniParser.NetStandard.csprojResolveAssemblyReference.cache
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.NetStandard\obj\Debug\netstandard2.0\IniParser.NetStandard.csproj.CoreCompileInputs.cache
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.NetStandard\obj\Debug\netstandard2.0\IniParser.NetStandard.AssemblyInfoInputs.cache
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.NetStandard\obj\Debug\netstandard2.0\IniParser.NetStandard.AssemblyInfo.cs
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.NetStandard\obj\Debug\netstandard2.0\IniParser.NetStandard.dll
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.NetStandard\obj\Debug\netstandard2.0\IniParser.NetStandard.pdb

@@ -1,0 +1,13 @@
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\bin\Debug\netcoreapp2.0\IniParser.Example.deps.json
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\bin\Debug\netcoreapp2.0\IniParser.Example.runtimeconfig.json
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\bin\Debug\netcoreapp2.0\IniParser.Example.runtimeconfig.dev.json
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\bin\Debug\netcoreapp2.0\IniParser.Example.dll
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\bin\Debug\netcoreapp2.0\IniParser.Example.pdb
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\bin\Debug\netcoreapp2.0\IniParser.NetStandard.dll
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\bin\Debug\netcoreapp2.0\IniParser.NetStandard.pdb
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\obj\Debug\netcoreapp2.0\IniParser.Example.csprojResolveAssemblyReference.cache
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\obj\Debug\netcoreapp2.0\IniParser.Example.csproj.CoreCompileInputs.cache
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\obj\Debug\netcoreapp2.0\IniParser.Example.AssemblyInfoInputs.cache
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\obj\Debug\netcoreapp2.0\IniParser.Example.AssemblyInfo.cs
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\obj\Debug\netcoreapp2.0\IniParser.Example.dll
+C:\Users\delangsi\Source\Repos\IniParser.NetStandard\IniParser.Example\obj\Debug\netcoreapp2.0\IniParser.Example.pdb
